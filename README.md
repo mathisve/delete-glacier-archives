@@ -1,6 +1,5 @@
 # delete-glacier-archives
-delete glacier archives from output.json
-
+delete AWS glacier archives from output.json
 
 List vaults
 ```bash
